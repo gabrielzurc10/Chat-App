@@ -1,0 +1,10 @@
+C:\Users\Gabri\source\repos\Payroll\PayrollDb\bin\Debug\PayrollDb.dacpac
+C:\Users\Gabri\source\repos\Payroll\PayrollDb\bin\Debug\PayrollDb.dll
+C:\Users\Gabri\source\repos\Payroll\PayrollDb\bin\Debug\PayrollDb.pdb
+C:\Users\Gabri\source\repos\Payroll\PayrollDb\obj\Debug\PayrollDb.sqlprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\Payroll\PayrollDb\obj\Debug\Model.xml
+C:\Users\Gabri\source\repos\Payroll\PayrollDb\obj\Debug\refactor.xml
+C:\Users\Gabri\source\repos\Payroll\PayrollDb\obj\Debug\postdeploy.sql
+C:\Users\Gabri\source\repos\Payroll\PayrollDb\obj\Debug\predeploy.sql
+C:\Users\Gabri\source\repos\Payroll\PayrollDb\obj\Debug\PayrollDb.dll
+C:\Users\Gabri\source\repos\Payroll\PayrollDb\obj\Debug\PayrollDb.pdb

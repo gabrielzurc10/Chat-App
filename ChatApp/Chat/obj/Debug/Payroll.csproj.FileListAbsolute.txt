@@ -1,0 +1,11 @@
+C:\Users\Gabri\source\repos\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Gabri\source\repos\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\Gabri\source\repos\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Gabri\source\repos\Payroll\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Gabri\source\repos\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Gabri\source\repos\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\Gabri\source\repos\Payroll\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Gabri\source\repos\Payroll\Payroll\obj\Debug\Payroll.LoginForm.resources
+C:\Users\Gabri\source\repos\Payroll\Payroll\obj\Debug\Payroll.CreateAccount.resources
