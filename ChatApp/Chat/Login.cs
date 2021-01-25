@@ -72,6 +72,14 @@ namespace Chat
                     loadingImg.Hide();
                     this.Hide();
                 }
+
+                else
+                {
+                    loadingImg.Hide();
+                    loginBtn.Text = "SIGN IN";
+                    loginBtn.Enabled = true;
+                    invalidLbl.Visible = true;
+                }
             }
             catch (Exception)
             {
