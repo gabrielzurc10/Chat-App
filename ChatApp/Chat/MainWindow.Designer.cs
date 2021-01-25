@@ -32,7 +32,6 @@
             this.fullnameTxt = new System.Windows.Forms.Label();
             this.minimizeBtn = new System.Windows.Forms.Button();
             this.closeBtn = new System.Windows.Forms.Button();
-            this.leftPanel = new System.Windows.Forms.Panel();
             this.bottomPanel = new System.Windows.Forms.Panel();
             this.reconnectBtn = new System.Windows.Forms.Button();
             this.signOutBtn = new System.Windows.Forms.Button();
@@ -104,14 +103,6 @@
             this.closeBtn.UseVisualStyleBackColor = false;
             this.closeBtn.MouseClick += new System.Windows.Forms.MouseEventHandler(this.closeBtn_MouseClick);
             // 
-            // leftPanel
-            // 
-            this.leftPanel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
-            this.leftPanel.Location = new System.Drawing.Point(0, 34);
-            this.leftPanel.Name = "leftPanel";
-            this.leftPanel.Size = new System.Drawing.Size(227, 568);
-            this.leftPanel.TabIndex = 20;
-            // 
             // bottomPanel
             // 
             this.bottomPanel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(21)))), ((int)(((byte)(21)))), ((int)(((byte)(21)))));
@@ -151,7 +142,7 @@
             this.signOutBtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.signOutBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.signOutBtn.Font = new System.Drawing.Font("Corbel", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.signOutBtn.ForeColor = System.Drawing.Color.Gray;
+            this.signOutBtn.ForeColor = System.Drawing.Color.Silver;
             this.signOutBtn.Location = new System.Drawing.Point(60, 0);
             this.signOutBtn.Name = "signOutBtn";
             this.signOutBtn.Size = new System.Drawing.Size(117, 34);
@@ -169,7 +160,7 @@
             this.sendBtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.sendBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.sendBtn.Font = new System.Drawing.Font("Corbel", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sendBtn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.sendBtn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.sendBtn.Location = new System.Drawing.Point(711, 1);
             this.sendBtn.Name = "sendBtn";
             this.sendBtn.Size = new System.Drawing.Size(109, 34);
@@ -196,12 +187,12 @@
             this.chatScreen.BackColor = System.Drawing.Color.White;
             this.chatScreen.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.chatScreen.Font = new System.Drawing.Font("Corbel", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chatScreen.Location = new System.Drawing.Point(228, 40);
+            this.chatScreen.Location = new System.Drawing.Point(0, 40);
             this.chatScreen.Multiline = true;
             this.chatScreen.Name = "chatScreen";
             this.chatScreen.ReadOnly = true;
             this.chatScreen.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.chatScreen.Size = new System.Drawing.Size(592, 554);
+            this.chatScreen.Size = new System.Drawing.Size(820, 554);
             this.chatScreen.TabIndex = 22;
             // 
             // loadingImg
@@ -209,7 +200,7 @@
             this.loadingImg.BackColor = System.Drawing.Color.White;
             this.loadingImg.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.loadingImg.Image = global::Chat.Properties.Resources.Ripple_1s_200px;
-            this.loadingImg.Location = new System.Drawing.Point(437, 239);
+            this.loadingImg.Location = new System.Drawing.Point(326, 238);
             this.loadingImg.Name = "loadingImg";
             this.loadingImg.Size = new System.Drawing.Size(169, 159);
             this.loadingImg.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -226,7 +217,6 @@
             this.Controls.Add(this.loadingImg);
             this.Controls.Add(this.bottomPanel);
             this.Controls.Add(this.chatScreen);
-            this.Controls.Add(this.leftPanel);
             this.Controls.Add(this.topPanel);
             this.Controls.Add(this.minimizeBtn);
             this.Controls.Add(this.closeBtn);
@@ -251,7 +241,6 @@
         private System.Windows.Forms.Panel topPanel;
         private System.Windows.Forms.Button minimizeBtn;
         private System.Windows.Forms.Button closeBtn;
-        private System.Windows.Forms.Panel leftPanel;
         private System.Windows.Forms.Panel bottomPanel;
         private System.Windows.Forms.Button sendBtn;
         private System.Windows.Forms.TextBox chatTxt;
