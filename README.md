@@ -7,4 +7,4 @@ How to use:
 2. Run the server: ChatApp\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.exe
 3. Run the chat program: ChatApp\Chat\bin\Debug\Chat.exe
 
-![alt text](https://github.com/gabrielzurc10/Chat-App/blob/[branch]/Server-running.png?raw=true)
+![Server running](https://github.com/gabrielzurc10/Chat-App/blob/ChatApp/Screenshots/Server-running.png?raw=true)
