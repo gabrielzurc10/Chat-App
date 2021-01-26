@@ -15,5 +15,6 @@ How to use:
 ![Sign up screen](https://github.com/gabrielzurc10/Chat-App/blob/master/ChatApp/Screenshots/Sign-up-screen.png?raw=true)
 
 5. Login and chat!
+
 ![Chat screen](https://github.com/gabrielzurc10/Chat-App/blob/master/ChatApp/Screenshots/Chat-screen.png?raw=true)
 ![Server activity](https://github.com/gabrielzurc10/Chat-App/blob/master/ChatApp/Screenshots/Server-activity.png?raw=true)
