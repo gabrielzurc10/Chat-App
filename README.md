@@ -1,6 +1,6 @@
 Chat-App
 
-This program allows users to chat using the same network
+This program allow users to chat using the same network
 
 How to use:
 1. Download all folders from the repository
